@@ -115,12 +115,10 @@ a, a:visited {
     }
 
     .nav_links {
-        display: flex;
         flex-direction: row;
         justify-content: space-around;
     }
     .pricing {
-        display: flex;
         flex-direction: row;
         flex-wrap: nowrap;
         justify-content: center;
